@@ -1,37 +1,87 @@
-## Welcome to GitHub Pages
+<!doctype html>
+<html lang="en">
+<metacharset="UTF-8">
 
-You can use the [editor on GitHub](https://github.com/Y-Free/Y-Free.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<head>
+ <title>Cocyt</title>
+ <style>
+   header{
+     background-color:#0F2540;
+   }
+   nav{
+     background-color:#0F2540;
+   }
+   section{
+     background-color:gray;
+     padding:20px;
+     margin:20px;
+   }
+   footer{
+     background-color:#566C73;
+     font-size;10px;
+   }
+   header,nac,section,article,footer{
+     color:white;
+     font-size:26px
+   }
+ </style>
+</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<body>
 
-```markdown
-Syntax highlighted code block
+  <div >
 
-# Header 1
-## Header 2
-### Header 3
+  </div>
 
-- Bulleted
-- List
+  <nav>
+    网址
+  </nav>
 
-1. Numbered
-2. List
+ <header>
+   https://www.Cocyt.ink/
+ </header>
 
-**Bold** and _Italic_ and `Code` text
+ <section>
+  <h1>Welcome to Cocyt</h1>
+  <article >
+    The website is under construction.
+    Welcome next time~
+  </article>
+ </section>
 
-[Link](url) and ![Image](src)
-```
+ <figure>
+   <img src="M:\html5\picture001.jpg" width="1200" height="496">
+   <figcaption>Be ready to start~</figcaption>
+   <details>
+     <summary>图片信息</summary>
+     <p>from pivix...</p>
+   </details>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+   <audio src="M:\html5\bgm001.mp3" controls autoplay loop>
+      You browser dose not support the audio tag
+   </audio>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Y-Free/Y-Free.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+  <dialog open>最后一次更新<br><time>2019/3/28<br>20:00</time><dialong>
+ </figure>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+ <footer>
+  E-mail:Myth_on@yeah.net
+ </footer>
+
+ <canvas id="canvas" width="480" height="180">
+
+ </canvas>
+
+
+
+
+
+</body>
+
+</html>
